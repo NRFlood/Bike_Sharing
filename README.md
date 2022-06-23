@@ -28,3 +28,6 @@ One final graph shows an interesting breakdown of which type of user tends to us
 
 ## Summary
 The data clearly demonstrates that people leverage the Citi Bike services for short commutes around the city rather than leisurely rides. In particular people appear to be using the bikes as a source to commute to and from work during the weekday.  The data further demonstrates that males are the heaviest users based on the number of trips taken by a male, and the number of subscribers that are male.  Usage patterns by gender tend to be similar in terms of time of day and day of week, as well as trip duration, however females are simply using the service less than males.  One additional visual that I think would be insightful would be a bar chart that looks at age in comparison to the subscription status to determine if a particular age demographic uses the services more than another.  I also think a line chart that shows the trip duration by user type would provide some interesting insights as well.
+
+## Link to dashboard
+https://public.tableau.com/app/profile/nick7420/viz/NYC_Citibilke_Challenge/NYCCitibikeUsage
