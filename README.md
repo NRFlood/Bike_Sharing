@@ -4,6 +4,7 @@
 
 The purpose of this project is to build a dashboard that our friend Kate can use to pitch our bike sharing idea to the potential angel investor she has found.  To create the dashboard we pulled sample data from an existing bike sharing company - Citi Bike - in New York City.  The data covers an entire month’s worth of information that I used to generate visuals that tell a story about the usage of these bikes within the boroughs of NYC. To create these visuals I used Tableau to parse through the relevant information within the raw file and turn it into charts and maps that would highlight some key pieces of information that will help Kate and me build a business case for a bike sharing company in Des Moines.     
 
+## Results 
 ![](https://github.com/NRFlood/Bike_Sharing/blob/main/Checkout%20Times%20-%20For%20Users.PNG)
 Looking at the graph above it becomes clear that most of the people using these bikes are taking them for very short trips.  The most common amount of time for the bikes to be in use by any one user is 5 mins, indicating that most users are leveraging the bikes for commuting as opposed to leisure.
 
@@ -23,6 +24,9 @@ When looking at the breakdown of the type of user by gender it provides addition
 Looking at the most common hours of usage for these bikes it again illustrates that people are using them at the beginning and end of the workday, again with males representing the heaviest usage as indicated by the orange section of each bar. 
 
 ![](https://github.com/NRFlood/Bike_Sharing/blob/main/Usertype%20-%20By%20Location.PNG)
-One final graph shows an interesting breakdown of which type of user tends to use the bike by station.  Areas that tend experience heavy tourism like Central Park, the Statue of Liberty and Wall Street appear to have a significantly higher amount of usage by "customers" as opposed to "subscribers."  This would make sense since tourists likely would not benefit from using a Citi Bike subscription.   
+One final graph shows an interesting breakdown of which type of user tends to use the bike by station.  Areas that tend experience heavy tourism like Central Park, the Statue of Liberty and Wall Street appear to have a significantly higher amount of usage by "customers" as opposed to "subscribers."  This would make sense since tourists likely would not benefit from using a Citi Bike subscription.
+
+## Summary
+The data clearly demonstrates that people leverage the Citi Bike services for short commutes around the city rather than leisurely rides. In particular people appear to be using the bikes as a source to commute to and from work during the weekday.  The data further demonstates that males are the heaviest users based on the number of trips taken by a male, and the number of subscribers that are male.  Usage patterns by gender tend to be similar in terms of time of day and day of week, as well as trip duration, however females are simply using the surface less than males.  One additional visual that I think would be insighful would be a bar chart that looks at age in comparison to the subscription status to determine if a particular age demographic uses the services more than another.  I also think a visual that       
   
 
