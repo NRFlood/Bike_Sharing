@@ -23,7 +23,7 @@ When looking at the breakdown of the type of user by gender it provides addition
 ![](https://github.com/NRFlood/Bike_Sharing/blob/main/August%20Peak%20Hours%20-%20By%20Gender.PNG)
 Looking at the most common hours of usage for these bikes it again illustrates that people are using them at the beginning and end of the workday, again with males representing the heaviest usage as indicated by the orange section of each bar. 
 
-![](https://github.com/NRFlood/Bike_Sharing/blob/main/Usertype%20-%20By%20Location.PNG)
+![](https://github.com/NRFlood/Bike_Sharing/blob/main/Usertype%20-%20By%20location.PNG)
 One final graph shows an interesting breakdown of which type of user tends to use the bike by station.  Areas that tend experience heavy tourism like Central Park, the Statue of Liberty and Wall Street appear to have a significantly higher amount of usage by "customers" as opposed to "subscribers."  This would make sense since tourists likely would not benefit from using a Citi Bike subscription.
 
 ## Summary
